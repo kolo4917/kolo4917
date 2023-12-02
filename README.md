@@ -20,6 +20,8 @@
   
 ## 😀 [Internal Activities]
 
+- Award for Excellence in Career Pathway Competition (2019)
+
 - Vice president of the department's student council - (2022)
   
 - President of the department's student council - (2023)
@@ -31,15 +33,13 @@
 - CJ OLIVENETWORKS CJ UNIT - (2023)
   
 - KT AICE AI MENTOR - (2023)
-  
-- C language/Entry part-time instructor, JAM Coding, Daechi-dong, Seoul (MAR 2023 - Present)
+
+- Encouragement Award in KT AICE Coding Creative Contest (2023)
+
+- C language/Entry part-time instructor, JAM Coding, Daechi-dong, Seoul (2023)
 
 ## 📃 [PROJECT]
-
-- Award for Excellence in Career Pathway Competition (2019)
-  
-- Encouragement Award in KT AICE Coding Creative Contest (2023)
-  
+    
 - Backend Database Management for ECG-Based Lie Detection Application using Oscilloscope in Mobile Experiment (2022)
   
 - Database Management and Server for STAY 19.5: AI-Powered Four-Cut Photo Classification Program with QR Code Recognition (2023)
