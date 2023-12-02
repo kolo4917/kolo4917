@@ -17,12 +17,6 @@
 - Enrolled in University BootCamp
   
 - Specialization in TMAX related technologies
-
-## 💡 ACADEMIC INTEREST
-
-- Backend
-  - Machine Learning 
-  - Database
   
 ## 😀 [Internal Activities]
 
