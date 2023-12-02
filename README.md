@@ -47,10 +47,8 @@
 - AI Development for NIMONEMO: Scalp AI Recognition Solution Program (2023)
 
 ## 💻 [SKILLS]
-
-- Proficient in Mobile Communication, Programming, Probability and Statistics, Machine Learning, Data Analysis, and Mobile Programming
   
-- Programming Languages: Python, C/C++, JAVA, Kotlin, JS
+- Programming Languages: Python, C/C++, JAVA, JS, SQL
   
-- Proficient with AWS SageMaker, Wandb, Jupyter Notebook, Google Worksheet, Slack, Notion, MS Office Suite, Visual Studio, IDLE, Eclipse, Linux, Android Studio, Firebase
+- Proficient with AWS SageMaker, Wandb, MYSQL, Firebase
 
