@@ -1,16 +1,62 @@
-### Hi there 👋
+## 📚 EDUCATION
 
-<!--
-**kolo4917/kolo4917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dankook University, South Korea (MAR 2019 - Present)** 🇰🇷
 
-Here are some ideas to get you started:
+- Major: SW Convergence and Mobile System Engineering
+  
+- Studies: Machine Learning, Database, Operating System, Programming, Information Security, Mobile Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**University at Japan - Shenshu University, Tokyo, Japan (DEC 2022 - Feb 2023)** JP
+
+- Participated in Short-term Training
+  
+- Focus: Major and Language Training
+
+**TMAX ACADEMY TABA 4th - South Korea (SEP 2023 - Present)** 🇰🇷
+
+- Enrolled in University BootCamp
+  
+- Specialization in TMAX related technologies
+
+## 💡 ACADEMIC INTEREST
+
+- Backend
+  - Machine Learning 
+  - Database
+  
+## 😀 [Internal Activities]
+
+- Vice president of the department's student council - (2022)
+  
+- President of the department's student council - (2023)
+
+## 😁 [External Activities]
+
+- LG CNS AI GENIUS - (2022)
+  
+- CJ OLIVENETWORKS CJ UNIT - (2023)
+  
+- KT AICE AI MENTOR - (2023)
+  
+- C language/Entry part-time instructor, JAM Coding, Daechi-dong, Seoul (MAR 2023 - Present)
+
+## 📃 [PROJECT]
+
+- Award for Excellence in Career Pathway Competition (2019)
+  
+- Encouragement Award in KT AICE Coding Creative Contest (2023)
+  
+- Backend Database Management for ECG-Based Lie Detection Application using Oscilloscope in Mobile Experiment (2022)
+  
+- Database Management and Server for STAY 19.5: AI-Powered Four-Cut Photo Classification Program with QR Code Recognition (2023)
+  
+- AI Development for NIMONEMO: Scalp AI Recognition Solution Program (2023)
+
+## 💻 [SKILLS]
+
+- Proficient in Mobile Communication, Programming, Probability and Statistics, Machine Learning, Data Analysis, and Mobile Programming
+  
+- Programming Languages: Python, C/C++, JAVA, Kotlin, JS
+  
+- Proficient with AWS SageMaker, Wandb, Jupyter Notebook, Google Worksheet, Slack, Notion, MS Office Suite, Visual Studio, IDLE, Eclipse, Linux, Android Studio, Firebase
+
