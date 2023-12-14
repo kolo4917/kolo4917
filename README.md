@@ -4,7 +4,7 @@
 
 - Major: SW Convergence and Mobile System Engineering
   
-- Studies: Machine Learning, Database, Operating System, Programming, Information Security, Mobile Programming
+- Studies: Machine Learning, Database, Operating System, Information Security, Mobile Programming
 
 **University at Japan - Shenshu University, Tokyo, Japan (DEC 2022 - Feb 2023)** JP
 
