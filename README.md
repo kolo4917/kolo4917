@@ -38,6 +38,8 @@
 
 - C language/Entry part-time instructor, JAM Coding, Daechi-dong, Seoul (2023)
 
+- TMAX ACADEMY 4TH Team Project Excellence Award (2023)
+
 ## 📃 [PROJECT]
     
 - Backend Database Management for ECG-Based Lie Detection Application using Oscilloscope in Mobile Experiment (2022)
