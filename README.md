@@ -48,6 +48,8 @@
   
 - AI Development for NIMONEMO: Scalp AI Recognition Solution Program (2023)
 
+- Regression analysis of the successful bid reduction rate of landscaping companies ai (2024)
+
 ## 💻 [SKILLS]
   
 - Programming Languages: Python, C/C++, JAVA, JS, SQL
