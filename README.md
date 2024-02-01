@@ -45,12 +45,14 @@
 - Backend Database Management for ECG-Based Lie Detection Application using Oscilloscope in Mobile Experiment (2022)
   
 - Database Management and Server for STAY 19.5: AI-Powered Four-Cut Photo Classification Program with QR Code Recognition (2023)
+
+- AI Development for NIMONEMO: Scalp AI Recognition Solution Program (2023)
   
-- Regression analysis of the successful bid reduction rate of landscaping companies ai (2024)
+- Regression Data analysis of the successful bid reduction rate of landscaping companies ai (2024)
 
 ## 💻 [SKILLS]
   
 - Programming Languages: Python, C/C++, JAVA, JS, SQL
   
-- Proficient with AWS SageMaker, Wandb, MYSQL, Firebase
+- Proficient with AWS SageMaker, Wandb, MYSQL, Pycharm, Intellij
 
