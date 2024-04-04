@@ -52,7 +52,9 @@
 
 ## 💻 [SKILLS]
   
-- Programming Languages: Python, C/C++, JAVA, JS, SQL
+- Programming Languages: Python, JAVA, SQL
   
-- Proficient with AWS SageMaker, Wandb, MYSQL, Pycharm, Intellij
+- Proficient with Spring Boot, Flask, AWS SageMaker, Wandb, MYSQL
+  
+- Certificate : SQLD, KT AICE
 
