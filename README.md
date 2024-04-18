@@ -42,11 +42,11 @@
 
 ## 📃 [PROJECT]
     
-- Backend : DB, Web Framework : Database Management for ECG-Based Lie Detection Application using Oscilloscope in Mobile Experiment (2022)
+- Backend : DB, Web Framework : ECG-Based Lie Detection Application using Oscilloscope in Mobile Experiment (2022)
   
-- Backend : DB, Web Framework : Database Management and Server for STAY 19.5: AI-Powered Four-Cut Photo Classification Program with QR Code Recognition (2023)
+- Backend : DB, Web Framework : STAY 19.5: AI-Powered Four-Cut Photo Classification Program with QR Code Recognition (2023)
 
-- Backend : Web Framework, AI, Cloud : AI Development for NIMONEMO: Scalp AI Recognition Solution Program (2023)
+- Backend : Web Framework, AI, Cloud : NIMONEMO: Scalp AI Recognition Solution Program (2023)
   
 - Backend : DB, Web Framework, Cloud, AI : Regression Data analysis of the successful bid reduction rate of landscaping companies ai (2024)
 
