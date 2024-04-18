@@ -4,7 +4,7 @@
 
 - Major: SW Convergence and Mobile System Engineering
   
-- Studies: Machine Learning, Database, Operating System, Information Security, Mobile Programming
+- Studies Of Backend : SPRING, Database, Operating System, Information Security, ML(CNN)
 
 **University at Japan - Shenshu University, Tokyo, Japan (DEC 2022 - Feb 2023)** JP
 
@@ -12,7 +12,7 @@
   
 - Focus: Major and Language Training
 
-**TMAX ACADEMY TABA 4th - South Korea (SEP 2023 - Present)** 🇰🇷
+**TMAX ACADEMY TABA 4th - South Korea (SEP 2023 - DEC 2023)** 🇰🇷
 
 - Enrolled in University BootCamp
   
@@ -42,19 +42,21 @@
 
 ## 📃 [PROJECT]
     
-- Backend Database Management for ECG-Based Lie Detection Application using Oscilloscope in Mobile Experiment (2022)
+- Backend : DB, Web Framework : Database Management for ECG-Based Lie Detection Application using Oscilloscope in Mobile Experiment (2022)
   
-- Database Management and Server for STAY 19.5: AI-Powered Four-Cut Photo Classification Program with QR Code Recognition (2023)
+- Backend : DB, Web Framework : Database Management and Server for STAY 19.5: AI-Powered Four-Cut Photo Classification Program with QR Code Recognition (2023)
 
-- AI Development for NIMONEMO: Scalp AI Recognition Solution Program (2023)
+- Backend : Web Framework, AI, Cloud : AI Development for NIMONEMO: Scalp AI Recognition Solution Program (2023)
   
-- Regression Data analysis of the successful bid reduction rate of landscaping companies ai (2024)
+- Backend : DB, Web Framework, Cloud, AI : Regression Data analysis of the successful bid reduction rate of landscaping companies ai (2024)
+
+- Backend : DB, Web Framework, Cloud, AI : ORRE SERVICE ??? (2024)
 
 ## 💻 [SKILLS]
   
 - Programming Languages: Python, JAVA, SQL
   
-- Proficient with Spring Boot, Flask, AWS SageMaker, Wandb, MYSQL
+- Proficient with Spring Boot, Flask, AWS SageMaker, Wandb, MYSQL, Docker, Git Action
   
 - Certificate : SQLD, KT AICE
 
