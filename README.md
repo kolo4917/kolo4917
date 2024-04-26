@@ -17,6 +17,9 @@
 - Enrolled in University BootCamp
   
 - Specialization in TMAX related technologies
+
+**University of Oregon - USA (2024)** 🇰🇷
+
   
 ## 😀 [Internal Activities]
 
