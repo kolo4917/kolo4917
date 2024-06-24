@@ -60,6 +60,8 @@
 
 - Backend : DB, Web Framework, Cloud, AI : ORRE SERVICE ??? (2024)
 
+- Backend : DB, Web Framework, Cloud, AI : Multiple regression Data analysis of Analysis of competitors for the successful bid reduction rate (2024)
+
 ## 💻 [SKILLS]
   
 - Programming Languages: Python, JAVA, SQL
