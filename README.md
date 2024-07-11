@@ -68,5 +68,5 @@
   
 - Proficient with Spring Boot, Flask, AWS SageMaker, Wandb, MYSQL, Docker, Git Action
   
-- Certificate : SQLD, KT AICE, 정보처리기사
+- Certificate : SQLD, KT AICE, 정보처리기사, 빅데이터분석기사
 
