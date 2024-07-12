@@ -48,6 +48,8 @@
 
 - Grand Awrad in COSS Start-Up Contest (2024)
 
+- BlueSolutions(RPA) Intern (2024)
+
 ## 📃 [PROJECT]
     
 - Backend : DB, Web Framework : ECG-Based Lie Detection Application using Oscilloscope in Mobile Experiment (2022)
