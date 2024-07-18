@@ -58,11 +58,14 @@
 
 - Backend : Web Framework, AI, Cloud : NIMONEMO: Scalp AI Recognition Solution Program (2023)
   
-- Backend : DB, Web Framework, Cloud, AI : Regression Data analysis of the successful bid reduction rate of landscaping companies ai (2024)
+- Backend : DB, Web Framework, Cloud, AI : **[subcontract]** Regression Data analysis of the successful bid reduction rate of landscaping companies ai (2024)
 
 - Backend : DB, Web Framework, Cloud, AI : ORRE : Real time waiting service (2024)
 
-- Backend : DB, Web Framework, Cloud, AI : Multiple regression Data analysis of Analysis of competitors for the successful bid reduction rate (2024)
+- Backend : DB, Web Framework, Cloud, AI : **[subcontract]** Multiple regression Data analysis of Analysis of competitors for the successful bid reduction rate (2024)
+
+- Backend : DB, Web Framework, Cloud : **[subcontract]** Law Firm Management Site (2024)
+
 
 ## 💻 [SKILLS]
   
