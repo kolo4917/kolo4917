@@ -64,8 +64,6 @@
 
 - Backend : DB, Web Framework, Cloud, AI : **[subcontract]** Multiple regression Data analysis of Analysis of competitors for the successful bid reduction rate (2024)
 
-- Backend : DB, Web Framework, Cloud : **[subcontract]** Law Firm Management Site (2024)
-
 
 ## 💻 [SKILLS]
   
