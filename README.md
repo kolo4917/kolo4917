@@ -69,7 +69,7 @@
   
 - Programming Languages: Python, JAVA, SQL
   
-- Proficient with Spring Boot, Flask, AWS SageMaker, Wandb, MYSQL, Docker, Git Action
+- Proficient with Spring Boot, Flask, AWS SageMaker, Wandb, MYSQL, Docker
   
 - Certificate : SQLD, KT AICE, 정보처리기사, 빅데이터분석기사
 
