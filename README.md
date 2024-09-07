@@ -6,7 +6,7 @@
   
 - Studies Of Backend : SPRING, Database, Operating System, Information Security, ML(CNN)
 
-**University at Japan - Shenshu University, Tokyo, Japan (DEC 2022 - Feb 2023)** JP
+**University at Japan - Shenshu University, Tokyo, Japan (DEC 2022 - Feb 2023)** 🇯🇵
 
 - Participated in Short-term Training
   
