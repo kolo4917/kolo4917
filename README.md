@@ -18,7 +18,7 @@
   
 - Specialization in TMAX related technologies
 
-**University of Oregon - USA (2024)** 🇰🇷
+**University of Oregon - USA (2024)** 🇺🇸
 
 - Major: Computer Science
 
@@ -69,7 +69,7 @@
   
 - Programming Languages: Python, JAVA, SQL
   
-- Proficient with Spring Boot, Flask, AWS SageMaker, Wandb, MYSQL, Docker
+- Proficient with Spring Boot, Flask, AWS SageMaker, WandB, MYSQL, Docker
   
 - Certificate : SQLD, KT AICE, 정보처리기사, 빅데이터분석기사
 
