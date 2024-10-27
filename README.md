@@ -21,8 +21,6 @@
 **University of Oregon - USA (2024)** 🇺🇸
 
 - Major: Computer Science
-
-- Studies Of Backend : Database, Operating System
   
 ## 😀 [Internal Activities]
 
