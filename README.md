@@ -18,7 +18,7 @@
   
 - Specialization in TMAX related technologies
 
-**University of Oregon - USA (2024)** 🇺🇸
+**University of Oregon - USA (2024)** 🇺🇸🦆
 
 - Major: Computer Science
   
