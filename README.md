@@ -21,6 +21,8 @@
 **University of Oregon - USA (2024)** 🇺🇸🦆
 
 - Major: Computer Science
+
+- Project: Timetable and school buffet menu description LLM application
   
 ## 😀 [Internal Activities]
 
