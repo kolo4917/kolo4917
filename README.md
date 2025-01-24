@@ -71,5 +71,8 @@
   
 - Proficient with Spring Boot, Flask, AWS SageMaker, WandB, MYSQL, Docker
   
-- Certificate : SQLD, KT AICE, 정보처리기사, 빅데이터분석기사
+- Technical qualifications : SQLD, KT AICE, 정보처리기사, 빅데이터분석기사
+
+- language qualification : OPIC IH
+
 
