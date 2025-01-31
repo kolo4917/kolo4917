@@ -75,4 +75,9 @@
 
 - language qualification : OPIC IH
 
+  ## 🎭 [Algorithm]
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysseo6123)](https://solved.ac/ysseo6123/)
+
+
 
